@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main-fonction de depart
+ * main - Entry point
  *
- * return: renvoie toujour 0 (ok)
+ * Return: Always 0 (Success)
  */
-int main(void)
+int main(void) /* ne retournee rien d'autre que void */
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
