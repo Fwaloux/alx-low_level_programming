@@ -1,7 +1,8 @@
 #!/bin/bash
-1-task processor
-2-compiler
-3-assembler
-4-name
-5-hello,puts
-6-hello, printf
+0-task processor
+1-compiler
+2-assembler
+3-name
+4-hello,puts
+5-hello, printif
+6-size
