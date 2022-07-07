@@ -11,8 +11,8 @@ int main(void)
 {
 
 char car;
-char e;
-char q;
+char e = 'e';
+char q = 'q';
 
 for (car = 'a'; car <= 'z'; car++)
 {
