@@ -17,10 +17,10 @@ char q = 'q';
 for (car = 'a'; car <= 'z'; car++)
 {
 	if (car != q && car != e)
-	{
 		putchar(car);
-	}
-	putchar('\n');
 }
+
+putchar('\n');
+
 return (0);
 }
