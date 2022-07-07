@@ -16,7 +16,7 @@ char q = 'q';
 
 for (car = 'a'; car <= 'z'; car++)
 {
-	while (car != q && car != e)
+	if (car != q && car != e)
 	{
 		putchar(car);
 	}
