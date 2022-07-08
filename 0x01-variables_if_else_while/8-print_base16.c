@@ -10,14 +10,14 @@
 int main(void)
 {
 
-char car;
-int n;
+	int n;
+	char car;
 
-for (n = '0'; n <= '9'; n++)
-	putchar(d);
-for (car = 'a'; car <= 'f'; car++)
-	putchar(car);
-putchar('\n');
+	for (n = '0'; n <= '9'; n++)
+		putchar(n);
+	for (car = 'a'; car <= 'f'; car++)
+		putchar(car);
+	putchar('\n');
 
 return (0);
 }
